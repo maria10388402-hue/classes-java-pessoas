@@ -1,4 +1,4 @@
-________________________________________________________package Testes;
+package Testes;
 public class Pessoa {
 String nome;
 int idade;
@@ -9,4 +9,3 @@ int idade;
         System.out.println("dormir...");
         }
 }
-________________________________________________________
